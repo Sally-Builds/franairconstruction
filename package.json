@@ -4,11 +4,11 @@
   "description": "FranAir construction company",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d spa"
   },
   "author": "Uzoagulu Joshua",
   "license": "ISC",
-  "homepage": "https://Sally-Builds.github.io/franairconstructions",
+  "homepage": "https://sally-builds.github.io/franairconstructions",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
